@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("阿誠/n");
+    printf("阿誠\n");
 }
